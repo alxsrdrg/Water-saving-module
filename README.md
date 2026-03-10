@@ -7,3 +7,5 @@ Most people don’t know how much water plants actually need to be watered effic
 To use it you must upload the code to an ATtiny85 connect it to the pcb then upload the recivers code to an arduino with the reciver and watch the serial interface for the data this will be feeded into a algorthm tha will take the best moment for you to water the plants (WIP)
 
 (BOM: https://docs.google.com/spreadsheets/d/1GQ0v_dI7ZX-GIWkH-TXZdrfXvmL1TNvHDqjCibz4H14/edit?usp=sharing)
+
+<img width="838" height="756" alt="image" src="https://github.com/user-attachments/assets/c68090e6-986f-46e1-8ed5-2df88202332b" />
